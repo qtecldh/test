@@ -7,6 +7,7 @@
 
 import UIKit
 
+//수정사항이 있을 경우 커밋을 다시 할 수 있을까?
 class ViewController: UIViewController {
 
     var menu1Button: UIButton!
